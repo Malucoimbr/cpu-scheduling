@@ -26,5 +26,6 @@ Para executar o programa, use o comando correspondente ao algoritmo, seguido do 
 
 # Saída
 A saída do rate, que no caso é o rate.out, deve estar da seguinte forma:
+
 ![image](https://github.com/Malucoimbr/cpu-scheduling/assets/98840187/7ac98e3a-4783-476d-8ee9-5b4b8206dc3e)
 
