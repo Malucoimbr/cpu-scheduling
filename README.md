@@ -25,6 +25,6 @@ Para executar o programa, use o comando correspondente ao algoritmo, seguido do 
 ./edf [namefile]   # Para Earliest-Deadline-First <br>
 
 # Saída
-
 A saída do rate, que no caso é o rate.out, deve estar da seguinte forma:
-![image](https://github.com/Malucoimbr/cpu-scheduling/assets/98840187/d9d23fff-afa2-4289-b51e-2a6c5232c6b1)
+![image](https://github.com/Malucoimbr/cpu-scheduling/assets/98840187/7ac98e3a-4783-476d-8ee9-5b4b8206dc3e)
+
